@@ -21,7 +21,7 @@
 Languages    : Python, C++, Java, JavaScript  
 Frontend     : HTML5, CSS3, React.js, Tailwind CSS  
 Backend      : Node.js, Express.js  
-Database     : MongoDB (Learning)  
+Database     : MongoDB, SQL  
 Tools & Dev  : Git, GitHub, VS Code, IntelliJ, PyCharm, etc.
 
 ```
