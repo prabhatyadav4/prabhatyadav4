@@ -2,7 +2,7 @@
   
 # Hi there, I'm Prabhat Kumar 👋
 
-### Computer Science Student | Full-Stack Developer | Data Science Enthusiast
+### BTech CSE @OCT’27 🎓 | C++ | Python | MERN Stack Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+products+that+matter;Learning+Data+Science+%26+Flutter;Open+to+collaborations+%26+opportunities" alt="Typing SVG" />
 
