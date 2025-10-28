@@ -78,7 +78,7 @@ Actively dumping and learning from diverse tech stack projects via YouTube playl
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabhatyadav4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prabhatyadav4&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prabhatyadav4&theme=dark)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatyadav4&layout=compact&theme=tokyonight&hide_border=true)
 
